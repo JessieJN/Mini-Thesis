@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 jupyter
 ipykernel
-zxcvbn
+zxcvbn==4.5.0
+tqdm
